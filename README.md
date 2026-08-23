@@ -1,4 +1,3 @@
-# plugin-export-strings
 a place for me to dump my plugin exports
 =============================================================================
 
